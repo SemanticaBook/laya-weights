@@ -1,0 +1,10 @@
+# Local source checkpoints and temporary export/build outputs.
+build/
+build-*/
+checkpoint/
+*.safetensors
+*.pt
+*.pth
+.venv/
+__pycache__/
+*.pyc
